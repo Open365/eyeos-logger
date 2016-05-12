@@ -1,0 +1,24 @@
+{
+  "name": "eyeos-logger",
+  "version": "1.1.4",
+  "author": "eyeOS",
+  "description": "Custom logger with diferent log levels",
+  "main": "./eyeos-logger.js",
+  "dependencies": {},
+  "devDependencies": {
+    "eyeos-gruntfile": "*",
+    "grunt": "0.4.5",
+    "grunt-npm": "0.0.2",
+    "grunt-cli": "0.1.9",
+    "grunt-init": "0.2.1",
+    "grunt-shell": "0.7.0",
+    "grunt-mocha-test": "0.11.0"
+  },
+  "scripts": {
+    "test": "echo Nothing to test here. Move along."
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "license": "AGPL-3.0"
+}
